@@ -2,6 +2,7 @@
 This repository contains an enhanced method for duplicate detection in a product category. 
 
 ## What is included?
+- TVs-all-merged.json : Used data set containing information on 1624 TVs in .json format
 - data.py       : Includes all required functions for loading and cleaning the data
 - Functions.py: : Includes all required functions for duplicate detection
 - main.py       : Loop for generating results based on $n$ boostraps with replacement
